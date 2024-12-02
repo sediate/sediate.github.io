@@ -1,0 +1,40 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/three.js/99/three.min.js
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\ajax\libs\three.js\99\three.min.js
+Content Type: application/javascript
+
+Uri: https://crossy-road-delta.vercel.app/
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://crossy-road-delta.vercel.app/favicon.ico
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://crossy-road-delta.vercel.app/script.js
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\script.js
+Content Type: application/javascript
+
+Uri: https://crossy-road-delta.vercel.app/style.css
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Press+Start+2P
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK3nVivY.ttf
+Content Type: font/ttf
+
+Uri: https://kit.fontawesome.com/622afd0c30.js
+File Name: C:\Downloaded Web Sites\crossy-road-delta.vercel.app\622afd0c30.js
+Content Type: text/javascript
+
