@@ -1,0 +1,104 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Grid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1a1a2e;
+            color: white;
+            margin: 0;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Automatically fill the page */
+            gap: 8px;
+            padding: 10px;
+        }
+
+        .game-item {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 100%; /* Adjust width to fit grid cell */
+            aspect-ratio: 1; /* Make it a perfect square */
+            background-color: #282a36;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+            transition: transform 0.2s ease;
+            overflow: hidden;
+        }
+
+        .game-item:hover {
+            transform: scale(1.05);
+        }
+
+        .game-item img {
+            width: 85%;
+            height: 85%;
+            object-fit: contain;
+            border-radius: 10px;
+        }
+
+        .game-item p {
+            margin-top: 4px;
+            text-align: center;
+            font-size: 0.7rem;
+            color: white;
+        }
+
+        a {
+            text-decoration: none; /* Remove the underline from links */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Example game items -->
+        <a href="/games/1v1.lol/index.htm" class="game-item" target="_blank">
+            <img src="/images/games/1v1-lol.png" alt="1v1.lol">
+            <p>1v1.lol (doesn't work)</p>
+        </a>
+        <a href="/games/buildnow-gg/buildnow-gg.embed-1.html" class="game-item" target="_blank">
+            <img src="/images/games/buildnow-gg.png" alt="Buildnow.gg">
+            <p>Buildnow.gg</p>
+        </a>
+        <a href="/games/mc/index.html" class="game-item" target="_blank">
+            <img src="/images/games/minecraft.png" alt="Minecraft">
+            <p>Minecraft</p>
+        </a>
+        <a href="/games/slope/index.html" class="game-item" target="_blank">
+            <img src="/images/games/slope.png" alt="Slope">
+            <p>Slope</p>
+        </a>
+        <a href="/games/2048/index.html" class="game-item" target="_blank">
+            <img src="/images/games/2048.png" alt="2048">
+            <p>2048</p>
+        </a>
+        <a href="/games/superhot/index.html" class="game-item" target="_blank">
+            <img src="/images/games/superhot.png" alt="Superhot">
+            <p>Superhot</p>
+        </a>
+        <a href="/games/geometry-dash/geometry-dash.embed.html" class="game-item" target="_blank">
+            <img src="/images/games/geometry-dash.png" alt="Geometry Dash">
+            <p>Geometry Dash</p>
+        </a>
+            <a href="/games/smashkarts.io/index.htm" class="game-item" target="_blank">
+                <img src="/images/games/smashkarts.png" alt="SmashKarts.io">
+                <p>Smash Karts</p>
+        </a>
+    </a>
+    <a href="/games/bitlife/index.html" class="game-item" target="_blank">
+        <img src="/images/games/Bitlife.png" alt="BitLife">
+        <p>BitLife</p>
+    </a>
+    <a href="/games/tunnel-rush/index.html" class="game-item" target="_blank">
+        <img src="/images/games/tunnel-rush.jpg" alt="Tunnel Rush">
+        <p>Tunnel Rush</p>
+    </a>
+    </div>
+</body>
+</html>
