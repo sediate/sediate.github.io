@@ -1,0 +1,292 @@
+Uri: https://360playvid.info/slidepleer/s2245s.js
+File Name: C:\Downloaded Web Sites\doge2048.com\slidepleer\s2245s.js
+Content Type: application/octet-stream
+
+Uri: https://cmp.setupcmp.com/cmp/cmp/cmp-stub.js
+File Name: C:\Downloaded Web Sites\doge2048.com\cmp\cmp\cmp-stub.js
+Content Type: text/javascript
+
+Uri: https://cmp.setupcmp.com/cmp/cmp/cmp-v1.js
+File Name: C:\Downloaded Web Sites\doge2048.com\cmp\cmp\cmp-v1.js
+Content Type: text/javascript
+
+Uri: https://doge2048.com/2048
+File Name: C:\Downloaded Web Sites\doge2048.com\2048.html
+Content Type: text/html
+
+Uri: https://doge2048.com/2048-cupcakes
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes.html
+Content Type: text/html
+
+Uri: https://doge2048.com/2048-cupcakes/favicon.ico
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://doge2048.com/2048-cupcakes/js/animframe_polyfill.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\animframe_polyfill.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/application.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\application.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/bind_polyfill.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\bind_polyfill.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/classlist_polyfill.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\classlist_polyfill.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/game_manager.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\game_manager.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/grid.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\grid.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/html_actuator.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\html_actuator.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/keyboard_input_manager.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\keyboard_input_manager.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/l10n.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\l10n.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/localization.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\localization.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/local_storage_manager.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\local_storage_manager.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/js/tile.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\js\tile.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048-cupcakes/meta/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\meta\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/clear-sans.css
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\clear-sans.css
+Content Type: text/css
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Bold-webfont.eot
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Bold-webfont.eot?
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Bold-webfont.svg
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Bold-webfont.woff
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Light-webfont.eot
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Light-webfont.eot?
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Light-webfont.svg
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Light-webfont.woff
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Light-webfont.woff
+Content Type: font/woff
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Regular-webfont.eot
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Regular-webfont.eot?
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Regular-webfont.svg
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://doge2048.com/2048-cupcakes/style/fonts/ClearSans-Regular-webfont.woff
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\fonts\ClearSans-Regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://doge2048.com/2048-cupcakes/style/img/bg.jpg
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://doge2048.com/2048-cupcakes/style/main.css
+File Name: C:\Downloaded Web Sites\doge2048.com\2048-cupcakes\style\main.css
+Content Type: text/css
+
+Uri: https://doge2048.com/2048/favicon.ico
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://doge2048.com/2048/js/animframe_polyfill.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\animframe_polyfill.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/application.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\application.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/bind_polyfill.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\bind_polyfill.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/classlist_polyfill.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\classlist_polyfill.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/game_manager.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\game_manager.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/grid.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\grid.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/html_actuator.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\html_actuator.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/keyboard_input_manager.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\keyboard_input_manager.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/local_storage_manager.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\local_storage_manager.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/js/tile.js
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\js\tile.js
+Content Type: application/javascript
+
+Uri: https://doge2048.com/2048/meta/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\meta\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://doge2048.com/2048/meta/apple-touch-startup-image-640x1096.png
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\meta\apple-touch-startup-image-640x1096.png
+Content Type: image/png
+
+Uri: https://doge2048.com/2048/meta/apple-touch-startup-image-640x920.png
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\meta\apple-touch-startup-image-640x920.png
+Content Type: image/png
+
+Uri: https://doge2048.com/2048/style/fonts/clear-sans.css
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\clear-sans.css
+Content Type: text/css
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Bold-webfont.eot
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Bold-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Bold-webfont.eot?
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Bold-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Bold-webfont.svg
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Bold-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Bold-webfont.woff
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Bold-webfont.woff
+Content Type: font/woff
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Light-webfont.eot
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Light-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Light-webfont.eot?
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Light-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Light-webfont.svg
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Light-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Light-webfont.woff
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Light-webfont.woff
+Content Type: font/woff
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Regular-webfont.eot
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Regular-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Regular-webfont.eot?
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Regular-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Regular-webfont.svg
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Regular-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://doge2048.com/2048/style/fonts/ClearSans-Regular-webfont.woff
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\fonts\ClearSans-Regular-webfont.woff
+Content Type: font/woff
+
+Uri: https://doge2048.com/2048/style/main.css
+File Name: C:\Downloaded Web Sites\doge2048.com\2048\style\main.css
+Content Type: text/css
+
+Uri: https://doge2048.com/dogeminer-mini-meta/android-chrome-192x192.png
+File Name: C:\Downloaded Web Sites\doge2048.com\dogeminer-mini-meta\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://doge2048.com/img/2048.jpeg
+File Name: C:\Downloaded Web Sites\doge2048.com\img\2048.jpeg
+Content Type: image/jpeg
+
+Uri: https://doge2048.com/meme2048/meta/img.png
+File Name: C:\Downloaded Web Sites\doge2048.com\meme2048\meta\img.png
+Content Type: image/png
+
+Uri: https://doge2048.com/meta/doge-600.png
+File Name: C:\Downloaded Web Sites\doge2048.com\meta\doge-600.png
+Content Type: image/png
+
+Uri: https://doge2048.com/style/footer.css
+File Name: C:\Downloaded Web Sites\doge2048.com\style\footer.css
+Content Type: text/css
+
+Uri: https://doge2048.com/style/game-tiles.css
+File Name: C:\Downloaded Web Sites\doge2048.com\style\game-tiles.css
+Content Type: text/css
+
+Uri: https://doge2048.com/style/header.css
+File Name: C:\Downloaded Web Sites\doge2048.com\style\header.css
+Content Type: text/css
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3723218062742398
+File Name: C:\Downloaded Web Sites\doge2048.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://securepubads.g.doubleclick.net/tag/js/gpt.js
+File Name: C:\Downloaded Web Sites\doge2048.com\tag\js\f.txt
+Content Type: text/javascript
+
+Uri: https://stats.senty.com.au/js/script.js
+File Name: C:\Downloaded Web Sites\doge2048.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://stpd.cloud/saas/7786
+File Name: C:\Downloaded Web Sites\doge2048.com\saas\7786
+Content Type: text/javascript
+

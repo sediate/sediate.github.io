@@ -1,0 +1,101 @@
+.doge-footer {
+  background-color: #ffffcc;
+  padding: 20px 0 110px;
+  text-align: center;
+  font-family: 'Comic Sans', 'Comic Sans MS', Chalkboard, Helvetica, Arial, sans-serif;
+  margin-top: 100px;
+}
+
+.doge-footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.doge-footer-left {
+  flex: 1;
+  text-align: right;
+  padding-right: 20px;
+}
+
+.doge-footer-right {
+  flex: 2;
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+  padding-left: 20px;
+}
+
+.doge-footer-image {
+  width: 100px;
+  height: auto;
+  border-radius: 50%;
+  border: 3px solid #FF6B6B;
+}
+
+.footer-section {
+  margin-bottom: 15px;
+}
+
+.footer-heading {
+  color: #FF6B6B;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.footer-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-link {
+  color: #8B4513;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 1.5;
+  transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+  color: #FF6B6B;
+}
+
+.doge-footer-text {
+  font-size: 14px;
+  color: #8B4513;
+  margin-top: 20px;
+}
+
+@keyframes wowAnimation {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
+
+.footer-link:hover {
+  animation: wowAnimation 0.5s ease-in-out;
+}
+
+@media (max-width: 600px) {
+  .doge-footer-content {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .doge-footer-left,
+  .doge-footer-right {
+    text-align: center;
+    padding: 10px 0;
+  }
+
+  .doge-footer-right {
+    flex-direction: column;
+  }
+
+  .footer-section {
+    margin-bottom: 20px;
+  }
+}
