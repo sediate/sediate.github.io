@@ -1,0 +1,249 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Grid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1a1a2e;
+            color: white;
+            margin: 0;
+        }
+
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Automatically fill the page */
+            gap: 8px;
+            padding: 10px;
+        }
+
+        .game-item {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 100%; /* Adjust width to fit grid cell */
+            aspect-ratio: 1; /* Make it a perfect square */
+            background-color: #282a36;
+            border-radius: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+            transition: transform 0.2s ease;
+            overflow: hidden;
+        }
+
+        .game-item:hover {
+            transform: scale(1.05);
+        }
+
+        .game-item img {
+            width: 85%;
+            height: 85%;
+            object-fit: contain;
+            border-radius: 10px;
+        }
+
+        .game-item p {
+            margin-top: 4px;
+            text-align: center;
+            font-size: 0.7rem;
+            color: white;
+        }
+
+        a {
+            text-decoration: none; /* Remove the underline from links */
+        }
+    </style>
+<style type="text/css" id="operaUserStyle"></style><style type="text/css"></style><style id="bt-default-injected-css">
+   
+[bt-global-status="dual"] [bt-translate-status]:not([bt-translate-status="translated"]) .bt-copied-node-wrapper {
+  display: none !important;
+}
+
+.bt-global-loading {
+    display: inline-block !important;
+    width: 12px !important;
+    height: 12px !important;
+    border: 2px solid #f3f3f3;
+    border-top: 1px solid #aaa;
+    border-radius: 50%;
+    animation: bt-global-spin 1s linear infinite;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+@keyframes bt-global-spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.bt-error-wrapper {    
+    position: relative;
+    display: inline-flex;
+    padding: 6px;
+    margin: 0 8px;
+    white-space: nowrap;
+    font-size: 16px;
+    align-items: center;
+    color: #00AAB5;
+    vertical-align: middle;   
+}
+
+.bt-error-wrapper font {
+  display: flex;
+  align-items: center;
+  margin: 0 4px;
+  cursor: pointer;
+}
+
+.bt-error-wrapper svg {
+  width: 0.8em;
+  height: 0.8em;
+  margin:  0 4px;
+}
+
+.bt-global-retry svg:hover {
+    animation: bt-global-spin 1s ease infinite;
+}
+
+.bt-block-wrapper {
+    margin: 8px 0 !important;
+    display: inline-block;
+}
+
+.bt-inline-wrapper {
+    margin: 0 8px !important;
+}
+
+.bt-max-height-unset {
+    max-height: unset !important;
+}
+
+.bt-webkit-line-clamp-unset {
+    -webkit-line-clamp: unset !important;
+}
+
+
+:root{
+    --font--dash--border:#59c1bd;
+    --font--underLine-border:#72ece9;
+    --font-marker--bg:0,0,0;
+    --font--blockquote--left--bg:#FF0000;
+    --font--spit--line--border: #000000;
+}
+
+.translatedTextContainer{
+    margin: 8px 0 !important;
+    display: inline-block;
+}
+
+.fontFamilyDashRest{
+    background: linear-gradient(to right, var(--font--dash--border) 0%, var(--font--dash--border) 50%, transparent 50%, transparent 100%) repeat-x left bottom;
+    background-size: 8px 2px;
+    padding-bottom: 2px;
+}
+
+.fontFamilyUnderlineRest{
+    border-bottom: 1px solid var(--font--underLine-border) !important;
+}
+
+.fontFamilyMaskRest{
+    filter: blur(5px) !important;
+    transition: filter 0.3s ease !important;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.fontFamilyMaskRest:hover{
+    filter: none !important;
+}
+
+.fontFamilySpitLineRest{
+    color: #f50a0a;
+}
+
+.fontFamilySpitLineRest::before{
+    content: "";
+    display: block;
+    max-width: 80px;
+    width: 10%;
+    border-top: 1px dashed var(--font--spit--line--border);
+    padding-top: 8px;
+}
+
+
+.fontFamilyMarkerReset{
+    background:
+            linear-gradient(to right, rgba(var(--font-marker--bg), 0.1), rgba(var(--font-marker--bg), 0.9) 3%, rgba(var(--font-marker--bg), 0.9) 35%, rgba(var(--font-marker--bg), 0.9) 70%, rgba(var(--font-marker--bg), 0.8) 95%, rgba(var(--font-marker--bg), 0.3));
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+.fontFamilyBlockQuoteReset{
+    border-left: 4px solid var(--font--blockquote--left--bg) !important;
+    padding-left: 12px !important;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+  </style></head>
+<body data-new-gr-c-s-check-loaded="14.1223.0" data-gr-ext-installed="">
+    <div class="container">
+        <!-- Example game items -->
+        <a href="/games/1v1.lol/index.htm" class="game-item" target="_blank">
+            <img src="/images/games/1v1-lol.png" alt="1v1.lol">
+            <p>1v1.lol (doesn't work)</p>
+        </a>
+        <a href="/games/buildnow-gg/buildnow-gg.embed-1.html" class="game-item" target="_blank">
+            <img src="/images/games/buildnow-gg.png" alt="Buildnow.gg">
+            <p>Buildnow.gg</p>
+        </a>
+        <a href="/games/mc/index.html" class="game-item" target="_blank">
+            <img src="/images/games/minecraft.png" alt="Minecraft">
+            <p>Minecraft</p>
+        </a>
+        <a href="/games/slope/index.html" class="game-item" target="_blank">
+            <img src="/images/games/slope.png" alt="Slope">
+            <p>Slope</p>
+        </a>
+        <a href="/games/2048/index.html" class="game-item" target="_blank">
+            <img src="/images/games/2048.png" alt="2048">
+            <p>2048</p>
+        </a>
+        <a href="/games/superhot/index.html" class="game-item" target="_blank">
+            <img src="/images/games/superhot.png" alt="Superhot">
+            <p>Superhot</p>
+        </a>
+        <a href="/games/geometry-dash/geometry-dash.embed.html" class="game-item" target="_blank">
+            <img src="/images/games/geometry-dash.png" alt="Geometry Dash">
+            <p>Geometry Dash</p>
+        </a>
+            <a href="/games/smashkarts.io/index.htm" class="game-item" target="_blank">
+                <img src="/images/games/smashkarts.png" alt="SmashKarts.io">
+                <p>Smash Karts</p>
+        </a>
+    
+    <a href="lgames/bitlifeonline.github.io/class/index.html" class="game-item" target="_blank">
+        <img src="/images/games/Bitlife.png" alt="BitLife">
+        <p>BitLife</p>
+    </a>
+    <a href="/games/tunnel-rush/index.html" class="game-item" target="_blank">
+        <img src="/images/games/tunnel-rush.jpg" alt="Tunnel Rush">
+        <p>Tunnel Rush</p>
+    </a>
+    <a href="/games/cryzen.io/10/igra-cryzen-io/index.htm" class="game-item" target="_blank">
+        <img src="/images/games/tunnel-rush.jpg" alt="Tunnel Rush">
+        <p>Cryzen.io</p>
+    </a>
+    <a href="/games/eggy-car/eggy-car/index.htm" class="game-item" target="_blank">
+        <img src="/images/games/eggy-car.png" alt="Eggy Car">
+        <p>Cryzen.io</p>
+    </a>
+    </div>
+
+</html>
